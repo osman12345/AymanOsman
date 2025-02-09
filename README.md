@@ -3,6 +3,7 @@ Hi there! I’m Ayman Osman, a computational biologist specializing in multi-omi
 
 ## Projects
 - [RNAseq Differential Expression Analysis Shiny App](https://github.com/osman12345/RNAseq_analysis) This Shiny app performs RNAseq differential expression analysis using edgeR and limma. It allows users to upload count data and sample metadata, choose species, and then run the analysis. The app generates diagnostic plots and tables for visualization and lets users download the differential expression results.
+  
   Link to the app:
   [https://vvr6z0-ayman-osman.shinyapps.io/rnaseq_analysis/](https://vvr6z0-ayman-osman.shinyapps.io/rnaseq_analysis/)
 - [Multi-Omics Data Integration](https://github.com/osman12345/Multi-Omics-Data-Integration): Leading a project that integrates genomic, transcriptomic, and epigenomics data to identify biomarkers and therapeutic targets in heart diseases. Developing analysis pipelines using bash and R/Bioconductor packages.
